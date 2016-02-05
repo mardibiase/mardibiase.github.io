@@ -5,7 +5,7 @@ title: Research
 share: false
 ---
 
-##Project SENECA
+## Project SENECA
 
 [http://senecaproject.github.io](http://senecaproject.github.io){:target="_blank"}
 
