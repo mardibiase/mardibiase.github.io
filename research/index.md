@@ -4,6 +4,10 @@ permalink: /research
 title: Research
 share: false
 ---
+## Publications
+
+* Marco di Biase, Magiel Bruntink, Alberto Bacchelli - [**A security perspective on code review: The case of Chromium**](/pubs/scam2016.pdf) - In _Proceedings of SCAM 2016 (16th IEEE International Working Conference on Source Code Analysis and Manipulation)_ (to appear), 2016
+
 
 ## Project SENECA
 
