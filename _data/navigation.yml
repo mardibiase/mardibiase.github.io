@@ -1,19 +1,14 @@
 # Site navigation links
 
-- title: about
-  url: /about
-  excerpt: "Something about myself"
-  image: 
+- title: Articles
+  url: /articles
 
 - title: resume
   url: /resume
-  excerpt: "My academic and professional career"
 
 - title: research
   url: /research
-  excerpt: "Research work/projects"
 
 - title: contact
   url: /contact
   excerpt: "How to reach me"
-

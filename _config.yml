@@ -12,13 +12,14 @@ url:
 sass:
   sass_dir: _sass
   style: compressed
-permalink: /:categories/:title/
+permalink: /:categories/:year/:month/:day/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-redirect-from
 
 
 # Octopress configuration
@@ -36,16 +37,19 @@ titlecase: true
 
 
 # Site owner
-owner:
-  name:
+owner: 
+  name: Marco di Biase
   email:
-  twitter:
+  twitter: mardibiase
   google:
     ad-client:
     ad-slot:
   bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar:
   disqus-shortname:
 
 
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", 
+          "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", 
+          "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", 
+          "package.json"]

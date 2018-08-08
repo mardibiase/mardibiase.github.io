@@ -1,12 +1,13 @@
 ---
 layout: article
-permalink: /Articles
+permalink: /articles
 share: false
 ---
 
-Articles homepage - tbc
+Some stuff I have the time to write about.
 
 <div class="tiles">
 {% for post in site.posts %}
-    {% include post-grid.html %}
-{% endfor %}</div>
+    {% include post-list.html %}
+{% endfor %}
+</div>
