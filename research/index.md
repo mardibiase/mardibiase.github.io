@@ -12,6 +12,9 @@ share: false
 In _Proceedings of SCAM 2016 (16th IEEE International Working Conference on 
 Source Code Analysis and Manipulation)_ (to appear), 2016
 
+* Marco di Biase, Ayushi Rastogi, Magiel Bruntink, Arie van Deursen - 
+[**The Delta Maintainability Model: Measuring Maintainability of Fine-Grained Code Changes**](/pubs/deltamaintainability.pdf) - 
+In _Proceedings of TechDebt 2019 (2nd International Conference on Technical Debt)_ - Montréal, Canada - May 26–27, 2019 (to appear)
 
 ## Project SENECA
 

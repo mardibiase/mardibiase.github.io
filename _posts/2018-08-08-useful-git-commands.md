@@ -34,3 +34,8 @@ today):
 
 In case the path has been changed, `git log --diff-filter=D --summary | grep <filename>`
 
+* Git log in a pretty format:
+`git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit`
+
+* Checkout someone's PR in Git using the following:
+`git fetch origin pull/{PR id}/head:pr-{PR id}` and then `git checkout pr-{PR id}` (from [this tweet](https://twitter.com/EmmaWedekind/status/1107529228222910465))
