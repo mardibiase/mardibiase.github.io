@@ -16,6 +16,10 @@ Source Code Analysis and Manipulation)_ (to appear), 2016
 [**The Delta Maintainability Model: Measuring Maintainability of Fine-Grained Code Changes**](/pubs/deltamaintainability.pdf) - 
 In _Proceedings of TechDebt 2019 (2nd International Conference on Technical Debt)_ - Montréal, Canada - May 26–27, 2019 (to appear)
 
+* Marco di Biase, Magiel Bruntink, Arie van Deursen, Alberto Bacchelli - 
+[**The effects of change decomposition on code review—a controlled experiment**](https://peerj.com/articles/cs-193.pdf) - 
+In _PeerJ Computer Science_
+
 ## Project SENECA
 
 [http://senecaproject.github.io](http://senecaproject.github.io){:target="_blank"}
